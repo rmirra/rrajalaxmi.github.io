@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Rajalaxmi Rajagopalan, a Ph.D. student in the Electrical and Computer Engineering Department at the University of Illinois - Urbana Champaign (UIUC).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I work with [Dr. Romit Roy Choudhury](http://croy.web.engr.illinois.edu/) in the Systems and Networking Research Group ([SyNRG])(https://synrg.csl.illinois.edu/)
 
-What else do you need?
 
-### My story
+### Research Interests
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My research interest is in wireless communications and networking. 
