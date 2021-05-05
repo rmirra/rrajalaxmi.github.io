@@ -4,7 +4,7 @@ title: Experience
 ---
 
 
-## Teaching Experience
+### Teaching Experience
 
 1. **Teaching Assistant, National University of Singapore (NUS)**  
     *Jan'20 - Present*  
@@ -17,7 +17,7 @@ title: Experience
     - Introduction to communication networks
     - Deep Learning
 
-## Work Experience  
+### Work Experience  
 
 1. **Bharti Airtel, India**   
     *Jun'16 - Jul'18*  
