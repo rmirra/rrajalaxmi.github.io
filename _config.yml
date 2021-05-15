@@ -15,7 +15,7 @@ author: Rajalaxmi Rajagopalan
 
 navbar-links:
   About Me: "aboutme"
-  Experience: "exp"
+  # Experience: "exp"
   Education: "edu"
   CV: "resume"
 
